@@ -1,6 +1,6 @@
 # maxing-ringer
 
-#### Video
+### Video
 
 This covers steps 3-14 (for method A) and 5-xx (for method B). Full instructions are below. You may need to pause it frequently to see what was done.
 
@@ -15,7 +15,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 alt="Method B" width="240" height="180" border="1" /></a>
 
 ## Method A (recommended)
-#### Insutrctions
+### Insutrctions
 
 1. Download the files at: https://goo.gl/CQPzE4
 2. Place the files at an appropriate directory on the device
@@ -35,7 +35,7 @@ alt="Method B" width="240" height="180" border="1" /></a>
 16. All done
 
 ## Method B (if A fails)
-#### Instructions
+### Instructions
 
 1. Download the files at: https://goo.gl/CQPzE4
 2. Place the files at an appropriate directory on the device
