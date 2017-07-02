@@ -17,7 +17,7 @@ alt="maxing-ringer" width="240" height="180" border="1" /></a>
 4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
 5. Tap the the three dots (**⋮**) on the top-left corner🡲**Preferences**🡲**Monitor** tab
 6. Make sure that **Run In Foreground** is checked. *(OPTIONAL)You can also check **Show Notification Icon** for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
-7. Go back, tap the three dots again (⋮) and hit exit. Tap "save first" and you should see a Tasker icon now (if checked) and status bar notification that'll always be visible
+7. Go back, tap the three dots again (⋮) and hit **Exit**. Tap **save first** and you should see a Tasker icon now (if checked) and status bar notification that'll always be visible
 8. Open up the **Volume profile** app and switch to the the **VOLUMES** tab
 9. Set **Ringer Mode** to **Normal**, **Ring/Notification** to 7/7 (or whatever the max is) and **Voice Call** to 5/5 (or the max)
 10. Tap the save icon on the top right (floppy disk icon; 💾) and name it whatever you want
