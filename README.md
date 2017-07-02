@@ -1,4 +1,4 @@
-## maxing-ringer
+# maxing-ringer
 
 1. Download the files at: https://goo.gl/CQPzE4
 2. Place the files at an appropriate directory within the device
