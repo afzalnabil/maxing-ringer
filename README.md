@@ -1,4 +1,4 @@
-# maxing-ringer
+# maxring
 
 | Table of Contents| 
 | ------------- |
