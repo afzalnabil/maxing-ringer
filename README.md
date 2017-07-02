@@ -2,9 +2,15 @@
 
 #### Video
 
-This covers step 3-13. You may need to pause it to see what was done.
+This covers step 3-13. You may need to pause it frequently to see what was done.
 
-### Insutrctions
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+#### Insutrctions
+
 1. Download the files at: https://goo.gl/CQPzE4
 2. Place the files at an appropriate directory within the device
 3. Install **Tasker-5.0b2.apk** followed by **volume-profile.apk**
