@@ -1,7 +1,7 @@
 # maxring
-Method A: Locks the ringer volume to max state, gets triggered only when VOL- key is pressed or when volume is decreased through the OS. Trigger-based, so expect minimal battery drain
+`Method A`: Locks the ringer volume to max state, gets triggered only when VOL- key is pressed or when volume is decreased through the OS. Trigger-based, so expect minimal battery drain
 
-Method B: Time-based, checks ringer volume level at fixed intervals, and maxes it out if it's not maxed out already. Might cause more battery drain than method A depending on interval set
+`Method B`: Time-based, checks ringer volume level at fixed intervals, and maxes it out if it's not maxed out already. Might cause more battery drain than method A depending on interval set
 
 | Table of Contents|
 | ------------- |
