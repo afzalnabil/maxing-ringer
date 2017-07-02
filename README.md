@@ -2,13 +2,19 @@
 
 #### Video
 
-This covers steps 3-14. You may need to pause it frequently to see what was done.
+This covers steps 3-14 (for method A) and 5-xx (for method B). Full instructions are below. You may need to pause it frequently to see what was done.
 
+##### Method A (recommended)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5YNqA8xSYPM
 " target="_blank"><img src="http://img.youtube.com/vi/5YNqA8xSYPM/0.jpg" 
-alt="maxing-ringer" width="240" height="180" border="1" /></a>
+alt="Method A" width="240" height="180" border="1" /></a>
 
+##### Method B (if A fails)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yfJek7yY-sw
+" target="_blank"><img src="http://img.youtube.com/vi/yfJek7yY-sw/0.jpg" 
+alt="Method B" width="240" height="180" border="1" /></a>
 
+## Method A (recommended)
 #### Insutrctions
 
 1. Download the files at: https://goo.gl/CQPzE4
@@ -27,5 +33,14 @@ alt="maxing-ringer" width="240" height="180" border="1" /></a>
 14. You can test this profile, by exiting both apps, and trying to lower the volume (which should now be not possible)
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
+
+## Method B (if A fails)
+#### Instructions
+
+1. Download the files at: https://goo.gl/CQPzE4
+2. Place the files at an appropriate directory on the device
+3. Install **Tasker-5.0b2.apk**
+4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
+
 
 <img src="/images/tasker.png" align=right height="200" width="200">
