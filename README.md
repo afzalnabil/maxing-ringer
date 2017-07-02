@@ -54,7 +54,7 @@ alt="Method B" width="240" height="180" border="1" /></a>
 12. Tap the button to left of the cup and select `Volume-Ringer`
 13. Tap the tilde button (`~`) and select `Doesn't Equal` under the Condition Operator screen
 14. Under `Value` field enter the max volume for the device set at step #9 and hit back (twice) to get back to the initial Tasker page
-15. Hit the three dots (`**⋮**`) and select `Exit` and select `save first`
+15. Hit the three dots (`⋮`) and select `Exit` and select `save first`
 16. 
 
 <img src="/images/tasker.png" align=right height="200" width="200">
