@@ -1,5 +1,11 @@
 # maxing-ringer
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Method A (recommended)
 This video covers steps 3-14, you may need to pause it frequently to see what was done. **<a href="#instructions">Full instructions are below.</a>**
 
@@ -26,7 +32,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 16. All done
 
 ## Method B (if A fails)
-This video covers steps 3-14, you may need to pause it frequently to see what was done. **Full instructions are below.**
+This video covers steps 3-14, you may need to pause it frequently to see what was done. **<a href="#instructions-1">Full instructions are below.</a>**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yfJek7yY-sw
 " target="_blank"><img src="http://img.youtube.com/vi/yfJek7yY-sw/0.jpg" 
 alt="Method B" width="240" height="180" border="1" /></a>
