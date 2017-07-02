@@ -4,9 +4,9 @@
 
 This covers step 3-13. You may need to pause it frequently to see what was done.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5YNqA8xSYPM
+" target="_blank"><img src="http://img.youtube.com/vi/5YNqA8xSYPM/0.jpg" 
+alt="maxing-ringer" width="240" height="180" border="10" /></a>
 
 
 #### Insutrctions
