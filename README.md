@@ -1,7 +1,7 @@
 # maxing-ringer
 
 ## Method A (recommended)
-This video covers steps 3-14, you may need to pause it frequently to see what was done. **Full instructions are below.**
+This video covers steps 3-14, you may need to pause it frequently to see what was done. **<a href="#instructions">Full instructions are below.</a>**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5YNqA8xSYPM
 " target="_blank"><img src="http://img.youtube.com/vi/5YNqA8xSYPM/0.jpg" 
