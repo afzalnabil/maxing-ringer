@@ -57,4 +57,4 @@ alt="Method B" width="240" height="180" border="1" /></a>
 15. Hit the three dots (`⋮`) and select `Exit` and select `save first`
 16. All done
 
-<p align="center"><img src="/images/tasker.png" align=right height="200" width="200"></p>
+<p align="center"><a href=#><img src="/images/tasker.png" width="200"></a></p>
