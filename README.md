@@ -8,7 +8,7 @@
 | <a href="#method-a-recommended">Method A (recommended)</a>|
 | <a href="#method-b-if-a-fails">Method B</a>|
 
-## Method A (**`recommended`**)
+## Method A (`recommended`)
 This video covers steps 3-14, you may need to pause it frequently to see what was done. **<a href="#instructions">Full instructions are below.</a>**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5YNqA8xSYPM
@@ -20,9 +20,9 @@ alt="Method A" width="240" height="180" border="1" /></a>
 2. Place the files at an appropriate directory on the device
 3. Install **Tasker-5.0b2.apk**, followed by **volume-profile.apk**
 4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
-5. Tap the the three dots (**⋮**) on the top-left corner🡲`Preferences`🡲`Monitor` tab
+5. Tap the the three dots (`⋮`) on the top-left corner🡲`Preferences`🡲`Monitor` tab
 6. Make sure that `Run In Foreground` is checked. *(OPTIONAL)You can also check `Show Notification Icon` for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
-7. Go back, tap the three dots again (⋮) and hit `Exit`. Tap `save first` and you should see a Tasker icon now (if checked) and status bar notification that'll always be visible
+7. Go back, tap the three dots again (`⋮`) and hit `Exit`. Tap `save first` and you should see a Tasker icon now (if checked) and status bar notification that'll always be visible
 8. Open up the **Volume profile** app and switch to the the `VOLUMES` tab
 9. Set `Ringer Mode` to `Normal`, `Ring/Notification` to 7/7 (or whatever the max is) and `Voice Call` to 5/5 (or the max)
 10. Tap the save icon on the top right (floppy disk icon; 💾) and name it whatever you want
@@ -44,7 +44,7 @@ alt="Method B" width="240" height="180" border="1" /></a>
 2. Place the files at an appropriate directory on the device
 3. Install **Tasker-5.0b2.apk**
 4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
-5. Tap the the three dots (**⋮**) on the top-left corner🡲`Preferences`🡲`Monitor` tab
+5. Tap the the three dots (`⋮`) on the top-left corner🡲`Preferences`🡲`Monitor` tab
 6. Make sure that `Run In Foreground` is checked. *(OPTIONAL)You can also check `Show Notification Icon` for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
 7. Switch to `Profile` tab and hit the `+` button, select `Time`
 8. Tap on `FROM` and `TO` to deactivate them. Tap `EVERY` to activate (ORANGE underline= Active, GRAY underline= Inactive)
