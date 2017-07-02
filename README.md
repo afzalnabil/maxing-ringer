@@ -33,7 +33,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
-## Method B (if A fails)
+## Method B (if A fails) [WIP]
 This video covers steps 5-xx, you may need to pause it frequently to see what was done. **<a href="#instructions-1">Full instructions are below.</a>**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yfJek7yY-sw
 " target="_blank"><img src="http://img.youtube.com/vi/yfJek7yY-sw/0.jpg" 
