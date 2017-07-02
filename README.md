@@ -1,5 +1,5 @@
 # maxring
-`Method A` Locks the ringer volume to max state, gets triggered only when VOL- key is pressed or when volume is decreased through the OS. Trigger-based, so expect minimal battery drain
+`Method A` Trigger-based. Locks the ringer volume to max state, gets triggered only when `VOL-` key is pressed or when volume is decreased through the OS. Expect minimal battery drain
 
 `Method B` Time-based, checks ringer volume level at fixed intervals, and maxes it out if it's not maxed out already. Might cause more battery drain than method A depending on interval set
 
@@ -48,7 +48,7 @@ alt="Method B" width="240" height="180" border="1" /></a>
 6. Make sure that `Run In Foreground` is checked. *(OPTIONAL)You can also check `Show Notification Icon` for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
 7. Switch to the `Profile` tab and hit the `+` button, select `Time`
 8. Tap on `FROM` and `TO` to deactivate them. Tap `EVERY` to activate it (ORANGE underline= Active, GRAY underline= Inactive)
-9. Set `EVERY` to 30 Minutes and go back
+9. Set `EVERY` to 30 Minutes and go back (minimum possible is 2, recommended to set between 30-60)
 10. Tap `New Task` and give it a name. Under Task Edit screen, hit the `+` button and select `Audio`🡲`Ringer Volume`
 11. Set `Level` to 7 (or max) and expand the If section via the `+` button to its right
 12. Tap the button to left of the cup and select `Volume-Ringer`
