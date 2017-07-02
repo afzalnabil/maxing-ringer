@@ -28,4 +28,4 @@ alt="maxing-ringer" width="240" height="180" border="1" /></a>
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
-![Tasker](https://assets.materialup.com/uploads/93801ae3-1bd2-40a3-9b5a-4c1d9b465b92/tasker.png)
+![Tasker](/images/tasker.png)
