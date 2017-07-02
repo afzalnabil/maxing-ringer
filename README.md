@@ -33,8 +33,8 @@ alt="Method A" width="240" height="180" border="1" /></a>
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
-## Method B (if A fails/doesn't work) [WIP]
-This video covers steps 5-xx, you may need to pause it frequently to see what was done. **<a href="#instructions-1">Full instructions are below.</a>**
+## Method B (if A fails/doesn't work)
+This video covers steps 7-16, you may need to pause it frequently to see what was done. **<a href="#instructions-1">Full instructions are below.</a>**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yfJek7yY-sw
 " target="_blank"><img src="http://img.youtube.com/vi/yfJek7yY-sw/0.jpg" 
 alt="Method B" width="240" height="180" border="1" /></a>
@@ -55,6 +55,6 @@ alt="Method B" width="240" height="180" border="1" /></a>
 13. Tap the tilde button (`~`) and select `Doesn't Equal` under the Condition Operator screen
 14. Under `Value` field enter the max volume for the device set at step #9 and hit back (twice) to get back to the initial Tasker page
 15. Hit the three dots (`⋮`) and select `Exit` and select `save first`
-16. 
+16. All done
 
 <img src="/images/tasker.png" align=right height="200" width="200">
