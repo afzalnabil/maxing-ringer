@@ -1,10 +1,9 @@
 # maxing-ringer
 
-| Tables        | 
+| Table of Contents| 
 | ------------- |
 | - <a href="#method-a-recommended">Method A (recommended)</a>|
-| - <a href="#method-b-if-a-fails">Method B</a>      |
-| zebra stripes |
+| - <a href="#method-b-if-a-fails">Method B</a>|
 
 ## Method A (recommended)
 This video covers steps 3-14, you may need to pause it frequently to see what was done. **<a href="#instructions">Full instructions are below.</a>**
