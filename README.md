@@ -2,7 +2,7 @@
 
 ### Video
 
-This covers steps 3-14 (for method A) and 5-xx (for method B). Full instructions are below. You may need to pause it frequently to see what was done.
+This covers steps 3-14 (for method A) and 5-xx (for method B). **Full instructions are below.** You may need to pause it frequently to see what was done.
 
 ##### Method A (recommended)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5YNqA8xSYPM
@@ -15,7 +15,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 alt="Method B" width="240" height="180" border="1" /></a>
 
 ## Method A (recommended)
-### Insutrctions
+### Instructions
 
 1. Download the files at: https://goo.gl/CQPzE4
 2. Place the files at an appropriate directory on the device
