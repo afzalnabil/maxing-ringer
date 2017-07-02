@@ -46,10 +46,10 @@ alt="Method B" width="240" height="180" border="1" /></a>
 4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
 5. Tap the the three dots (`⋮`) on the top-left corner🡲`Preferences`🡲`Monitor` tab
 6. Make sure that `Run In Foreground` is checked. *(OPTIONAL)You can also check `Show Notification Icon` for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
-7. Switch to `Profile` tab and hit the `+` button, select `Time`
-8. Tap on `FROM` and `TO` to deactivate them. Tap `EVERY` to activate (ORANGE underline= Active, GRAY underline= Inactive)
+7. Switch to the `Profile` tab and hit the `+` button, select `Time`
+8. Tap on `FROM` and `TO` to deactivate them. Tap `EVERY` to activate it (ORANGE underline= Active, GRAY underline= Inactive)
 9. Set `EVERY` to 30 Minutes and go back
-10. Tap `New Task` and give it a name, under Task Edit screen, hit the `+` button ad select `Audio`🡲`Ringer Volume`
+10. Tap `New Task` and give it a name. Under Task Edit screen, hit the `+` button and select `Audio`🡲`Ringer Volume`
 11. Set `Level` to 7 (or max) and expand the If section via the `+` button to its right
 12. Tap the button to left of the cup and select `Volume-Ringer`
 13. Tap the tilde button (`~`) and select `Doesn't Equal` under the Condition Operator screen
