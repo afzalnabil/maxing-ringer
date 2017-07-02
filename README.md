@@ -28,4 +28,4 @@ alt="maxing-ringer" width="240" height="180" border="1" /></a>
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
-![Tasker](/images/tasker.png)
+<img src="/images/tasker.png" align=right height="200" width="200">
