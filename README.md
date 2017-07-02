@@ -5,7 +5,7 @@
 
 | Table of Contents|
 | ------------- |
-| <a href="#method-a-recommended">Method A (recommended)</a>|
+| <a href="#method-a-recommended">Method A (**recommended**)</a>|
 | <a href="#method-b-if-a-fails">Method B</a>|
 
 ## Method A (*recommended*)
