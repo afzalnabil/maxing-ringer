@@ -33,7 +33,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
-## Method B (if A fails) [WIP]
+## Method B (if A fails/doesn't work) [WIP]
 This video covers steps 5-xx, you may need to pause it frequently to see what was done. **<a href="#instructions-1">Full instructions are below.</a>**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yfJek7yY-sw
 " target="_blank"><img src="http://img.youtube.com/vi/yfJek7yY-sw/0.jpg" 
@@ -44,6 +44,17 @@ alt="Method B" width="240" height="180" border="1" /></a>
 2. Place the files at an appropriate directory on the device
 3. Install **Tasker-5.0b2.apk**
 4. Launch **Tasker**, hit the check mark for the first two agreements/prompts that appear on first launch
-5.
+5. Tap the the three dots (**⋮**) on the top-left corner🡲`Preferences`🡲`Monitor` tab
+6. Make sure that `Run In Foreground` is checked. *(OPTIONAL)You can also check `Show Notification Icon` for your own convenience (to check whether Tasker is running in the background/foreground without actually opening the app in the future). It'll have an icon in the status bar to let you know that*
+7. Switch to `Profile` tab and hit the `+` button, select `Time`
+8. Tap on `FROM` and `TO` to deactivate them. Tap `EVERY` to activate (ORANGE underline= Active, GRAY underline= Inactive)
+9. Set `EVERY` to 30 Minutes and go back
+10. Tap `New Task` and give it a name, under Task Edit screen, hit the `+` button ad select `Audio`🡲`Ringer Volume`
+11. Set `Level` to 7 (or max) and expand the If section via the `+` button to its right
+12. Tap the button to left of the cup and select `Volume-Ringer`
+13. Tap the tilde button (`~`) and select `Doesn't Equal` under the Condition Operator screen
+14. Under `Value` field enter the max volume for the device set at step #9 and hit back (twice) to get back to the initial Tasker page
+15. Hit the three dots (`**⋮**`) and select `Exit` and select `save first`
+16. 
 
 <img src="/images/tasker.png" align=right height="200" width="200">
