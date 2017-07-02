@@ -2,8 +2,8 @@
 
 | Tables        | 
 | ------------- |
-| <a href="#method-a-recommended">Method A (recommended)</a>
-<a href="#method-b-if-a-fails">Method B</a>|
+| - <a href="#method-a-recommended">Method A (recommended)</a>
+- <a href="#method-b-if-a-fails">Method B</a>|
 | col 2 is      |
 | zebra stripes |
 
