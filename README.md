@@ -29,7 +29,7 @@ alt="Method A" width="240" height="180" border="1" /></a>
 11. Switch over to the `PROFILES` tab and tap on the newly created profile, a blue dot should appear to the right which means it is now active
 12. Hold down the newly created profile for a few seconds to bring up the menu, and select `edit`. Check the `Lock` boxes next to `Ring/Notification` and `Voice Call` and save again (💾)
 13. Hit the padlock icon on the top right of the app which will now show a padlock in the locked position (🔓🡲🔒)
-14. You can test this profile, by exiting both apps, and trying to lower the volume (which should now be not possible)
+14. You can test this profile, by exiting both apps, and by trying to lower the volume (which should now be not possible)
 15. Restart the device and test the profile once again to make sure it's restart-proof
 16. All done
 
